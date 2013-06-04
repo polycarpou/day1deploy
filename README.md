@@ -1,6 +1,21 @@
 Deploy on Day One Project
 
 Goal: To add yourself to the student section of the FlatironSchool.com and create your profile page.
+You will be working in a team of 4 people.  At the end of the project, you'll have 4 new html files in the students directory one for each student.  
+
+Deliverable:
+Ideally we'd like a git repo on github that we can clone and view your profile page as a local static file in a web browser. However, any method you can think of to get us the files so that we can open and view is a win.
+
+FAQ
+- Am I making a webapp?
+  - NO
+- Do I need rails?
+  - NO
+- Is there any reason I should be on Hacker News Today?
+  - NO
+- Do I need to change the index page?
+  - The styles shouldn't change, the content of the HTML should
+
 You can use the following link as a reference [students index](http://static.001.students.flatironschool.com/index.html)  
 Check out different students profiles, be creative, and don't copy exactly.
 Please read/skim this whole document before starting. Here's a few helpful tips...
@@ -13,8 +28,9 @@ Please read/skim this whole document before starting. Here's a few helpful tips.
 - Many of you will want to know the right way to do it.
 - However your team decides they want to tackle things is the right way to do it. 
 - Types of questions you'll probably want to ask that we'd like you to decide with your group.
-  - Should we use our own stylesheet or work within the existing styles?
+  - Should each member of the group have their own stylesheet or all share one?
   - Should we all work on one computer or each do our own and use git to manage merging our work together?
+  - How do we put all our changes into one repository?
 - The most important things are getting something working and learning to work as a team. There really are no wrong answers.
 - Have fun with your new best friends!
 
