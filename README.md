@@ -1,12 +1,16 @@
 Deploy on Day One Project
 
-Goal: To add yourself to the student section of the FlatironSchool.com and create your profile page.
+## Goal: 
+
+To add yourself to the student section of the FlatironSchool.com and create your profile page.
 You will be working in a team of 4 people.  At the end of the project, you'll have 4 new html files in the students directory one for each student.  
 
-Deliverable:
+## Deliverable:
+
 Ideally we'd like a git repo on github that we can clone and view your profile page as a local static file in a web browser. However, any method you can think of to get us the files so that we can open and view is a win.
 
-FAQ
+## FAQ
+
 - Am I making a webapp?
   - NO
 - Do I need rails?
@@ -34,7 +38,8 @@ Please read/skim this whole document before starting. Here's a few helpful tips.
 - The most important things are getting something working and learning to work as a team. There really are no wrong answers.
 - Have fun with your new best friends!
 
-Steps:  
+## Steps:  
+
 Note: Anywhere you see "yourname" please don't literally type this, please insert your actual name
 - Clone the students website to your code directory.
   - ```git clone git@github.com:flatiron-school/003.students.flatironschool.com.git```
