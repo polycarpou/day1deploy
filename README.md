@@ -3,7 +3,7 @@ Deploy on Day One Project
 ## Goal: 
 
 To add yourself to the student section of the FlatironSchool.com and create your profile page.
-You will be working in a team of 4 people.  At the end of the project, you'll have 4 new html files in the students directory one for each student.  
+You will be working in a team of 4 people.  At the end of the project, you'll have 4 new html files in the students directory, one for each student.  
 
 ## Deliverable:
 
