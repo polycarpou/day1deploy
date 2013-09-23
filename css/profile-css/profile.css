@@ -1,15 +1,35 @@
+  html {
+    font-family: 'Open Sans', sans-serif;
+  }
+
   h1 {
     font-size: 3em;
+    font-family: 'Open Sans', sans-serif;
   }
 
   h2 {
     font-size: 2em;
+    font-family: 'Open Sans', sans-serif;
   }
+
+  h3 {
+    font-family: 'Open Sans', sans-serif;
+  }
+
+  p {
+    font-family: 'Open Sans', sans-serif;
+  }
+
+  span {
+    font-family: 'Open Sans', sans-serif;
+  }
+
   hr {
     height: 100%;
   }
   a {
     color:#8f8f8f;
+    font-family: 'Open Sans', sans-serif;
   }
   a:hover {
     background: none;
@@ -142,6 +162,7 @@ background-repeat: repeat-y;
 
 .coder_title {
   font-size: 26px;
+  font-family: 'Open Sans', sans-serif;
 }
 
 table tbody tr td {
