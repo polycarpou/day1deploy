@@ -50,6 +50,7 @@
 
   .online-education i {
     font-size: 3.2em;
+    font-family: 'Open Sans', sans-serif;
     margin-right: 10px;
   }
 
@@ -85,16 +86,6 @@
   text-decoration:none;
   color:#3f3f3f;
   background:none;
-}
-
-/*Styling added by me*/
-#fancyerin {
-  background: #6ACBFF
-}
-.quoteerin {
-  color: #6ACBFF;
-  font-size: 55px;
-  align: left;
 }
 
 
